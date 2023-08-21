@@ -1,6 +1,10 @@
 ![](https://github.com/techexpert0119/techexpert0119/blob/main/assets/header_1.png)
 
-<h2 align="center"> Hello, everyone 👋</h2>
+<h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Everyone!+👋;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h2>
 
 <p align="center">
 I'm a result-driven tech expert and enthusiastic senior full stack web developer with 9+ years of hands-on experience designing, developing, and implementing web applications and solutions using various technical stacks and programming languages.
