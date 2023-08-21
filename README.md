@@ -1,6 +1,6 @@
 ![](https://github.com/techexpert0119/techexpert0119/blob/main/assets/header_1.png)
 
-<h3 align="center"> Hello, everyone 👋</h3>
+<h2 align="center"> Hello, everyone 👋</h2>
 
 <p align="center">
 I'm a result-driven tech expert and enthusiastic senior full stack web developer with 9+ years of hands-on experience designing, developing, and implementing web applications and solutions using various technical stacks and programming languages.
@@ -51,7 +51,7 @@ I'm a result-driven tech expert and enthusiastic senior full stack web developer
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="HTML5" />
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="NextJS" />
       <br>NextJS
     </td>
     <td align="center" width="96">
@@ -63,8 +63,8 @@ I'm a result-driven tech expert and enthusiastic senior full stack web developer
       <br>Laravel
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=shopify" width="48" height="48" alt="Laravel" />
-      <br>Shopify
+        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+      <br>ExpressJS
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
@@ -124,6 +124,45 @@ I'm a result-driven tech expert and enthusiastic senior full stack web developer
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
+    </td>
+ </tr>
+ <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nuxtjs" width="48" height="48" alt="" />
+      <br>Nuxt.js
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=backbonejs" width="48" height="48" alt="" />
+      <br>Backbone.js
+      </td>
+      </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="" />
+      <br>Redux
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=golanb" width="48" height="48" alt="" />
+      <br>GoLang
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=elasticsearch" width="48" height="48" alt="" />
+      <br>Elasticsearch
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="" />
+      <br>Material-UI
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=styled-component" width="48" height="48" alt="" />
+      <br>Styled-component
+    </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jira" width="48" height="48" alt="" />
+      <br>Jira
     </td>
  </tr>
 </table>
