@@ -41,8 +41,6 @@ I'm a result-driven tech expert and enthusiastic senior full stack web developer
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=github" alt="icon" width="36" height="36" />
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=nextjs" width="36" height="36" alt="NextJS" />
     </td>
@@ -99,8 +97,6 @@ I'm a result-driven tech expert and enthusiastic senior full stack web developer
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postgres" width="36" height="36" alt="PostgreSQL" />
     </td>
- </tr>
- <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=nuxtjs" width="36" height="36" alt="" />
     </td>
