@@ -3,7 +3,7 @@
 <h3 align="center"> Hello, everyone 👋</h3>
 
 <p align="center">
-I'm Tech Expert, a result-driven tech enthusiastic and full stack web developer with 9+ years of hands-on experience designing, developing, and implementing web applications and solutions using various technical stacks and programming languages.
+I'm a result-driven tech expert and enthusiastic senior full stack web developer with 9+ years of hands-on experience designing, developing, and implementing web applications and solutions using various technical stacks and programming languages.
 </p>
 
 ### 🔥 My strong skillsets
@@ -27,10 +27,6 @@ I'm Tech Expert, a result-driven tech enthusiastic and full stack web developer 
       <br>C++
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
-      <br>Webpack
-    </td>
-    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
       <br>MySQL
     </td>
@@ -48,15 +44,15 @@ I'm Tech Expert, a result-driven tech enthusiastic and full stack web developer 
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
       <br>Django
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
       <br>Github
     </td>
-    <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="HTML5" />
+      <br>NextJS
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="HTML5" />
@@ -65,6 +61,10 @@ I'm Tech Expert, a result-driven tech enthusiastic and full stack web developer 
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
       <br>Laravel
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=shopify" width="48" height="48" alt="Laravel" />
+      <br>Shopify
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
