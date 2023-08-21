@@ -10,7 +10,7 @@
 I'm a result-driven tech expert and enthusiastic senior full stack web developer with 9+ years of hands-on experience designing, developing, and implementing web applications and solutions using various technical stacks and programming languages.
 </p>
 
-### 🔥 My strong skillsets
+<h1 align="center">🔥 My strong skillsets 🔥</h1>
 
 <table align="center">
   <tr>
