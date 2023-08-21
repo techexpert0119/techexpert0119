@@ -1,5 +1,11 @@
 ![](https://github.com/techexpert0119/techexpert0119/blob/main/assets/header_1.png)
 
+<h3 align="center"> Hello, everyone 👋</h3>
+
+<p align="center">
+I'm Tech Expert, a result-driven tech enthusiastic and full stack web developer with 9+ years of hands-on experience designing, developing, and implementing web applications and solutions using various technical stacks and programming languages.
+</p>
+
 ### 🔥 My strong skillsets
 
 <table align="center">
