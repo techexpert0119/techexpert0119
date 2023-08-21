@@ -133,8 +133,6 @@ I'm a result-driven tech expert and enthusiastic senior full stack web developer
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=techexpert0119&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techexpert0119&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=minoveaz)
-
 <div align="center">
   <img height="120" src="https://user-images.githubusercontent.com/123120185/257965076-a45fbf30-104f-4dea-b41f-4babd28f92d2.svg"  />
 </div>
