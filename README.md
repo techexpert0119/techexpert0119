@@ -132,8 +132,8 @@ I'm a result-driven tech expert and enthusiastic senior full stack web developer
       <br>Nuxt.js
     </td>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=backbonejs" width="48" height="48" alt="" />
-      <br>Backbone.js
+        <img src="https://skillicons.dev/icons?i=d3" width="48" height="48" alt="" />
+      <br>D3.js
       </td>
       </td>
     <td align="center" width="96">
@@ -141,28 +141,28 @@ I'm a result-driven tech expert and enthusiastic senior full stack web developer
       <br>Redux
     </td>
             <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=golanb" width="48" height="48" alt="" />
+        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="" />
       <br>GoLang
     </td>
               <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=elasticsearch" width="48" height="48" alt="" />
-      <br>Elasticsearch
+        <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="" />
+      <br>Nest.js
     </td>
               <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="" />
-      <br>Material-UI
+        <img src="https://skillicons.dev/icons?i=mui" width="48" height="48" alt="" />
+      <br>MUI
     </td>
               <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=styled-component" width="48" height="48" alt="" />
-      <br>Styled-component
+        <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="" />
+      <br>Azure
     </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="" />
       <br>Docker
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jira" width="48" height="48" alt="" />
-      <br>Jira
+        <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="" />
+      <br>Kubernetes
     </td>
  </tr>
 </table>
