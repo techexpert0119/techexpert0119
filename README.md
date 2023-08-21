@@ -1,4 +1,4 @@
-![](https://github.com/techexpert0119/techexpert0119/blob/master/icons/header_1.png)
+![](https://github.com/techexpert0119/techexpert0119/blob/main/assets/header_1.png)
 
 ### 🔥 My strong skillsets
 
