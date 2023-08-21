@@ -34,10 +34,8 @@
       <br>AWS
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/angular-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
+        <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="HTML5" />
+      <br>Angular
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
