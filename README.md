@@ -11,7 +11,7 @@ I'm a result-driven tech expert and enthusiastic senior full stack web developer
 </p>
 
 <h3>🔥 My strong skillsets</h3>
-<table align="center" border="none">
+<table align="center">
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=react" alt="icon" width="24" height="24" />
@@ -128,8 +128,8 @@ I'm a result-driven tech expert and enthusiastic senior full stack web developer
 
 <hr>
 
-<table style="border: 0px;">
-  <tr style="border: 0px;">
+<table align="center">
+  <tr>
     <td width="400" verticalAlign="top">
       <h3>🛠️ Services I Offer</h3>
       <ul>
