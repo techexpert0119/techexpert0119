@@ -128,9 +128,9 @@ I'm a result-driven tech expert and enthusiastic senior full stack web developer
 
 <hr>
 
-<table style="border: none; width: 100%;">
-  <tr style="width: 100%">
-    <td style="width: 50%; vertical-align: top;">
+<table style="border: none;">
+  <tr>
+    <td style="vertical-align: top;">
       <h3>🛠️ Services I Offer</h3>
       <ul>
         <li>🌐 <b>Full-Stack Web Development</b></li>
@@ -143,7 +143,7 @@ I'm a result-driven tech expert and enthusiastic senior full stack web developer
         <li>🛠️ <b>DevOps and CI/CD</b></li>
       </ul>
     </td>
-    <td style="width: 50%; vertical-align: top;">
+    <td style="vertical-align: top;">
       <h3>🌟 Greatest Strength</h3>
       <b>✔️ Extensive Experience<br/>✔️ MERN Stack Specialist<br/>✔️ Innovative Approach<br/>✔️ Meticulous Coding</br>✔️ Strong Problem-Solving<br/>✔️ Collaborative Team Player<br/></b>
     </td>
@@ -152,7 +152,7 @@ I'm a result-driven tech expert and enthusiastic senior full stack web developer
 <hr>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=techexpert0119&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techexpert0119&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techexpert0119&layout=compact)](https://github.com/techexpert0119/slate-app-mern)
 
 <div align="center">
   <img height="120" src="https://user-images.githubusercontent.com/123120185/257965076-a45fbf30-104f-4dea-b41f-4babd28f92d2.svg"  />
