@@ -2,7 +2,7 @@
 
 <h2 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Everyone!+👋;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+everyone!+👋;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h2>
 
@@ -129,18 +129,32 @@ I'm a result-driven tech expert and enthusiastic senior full stack web developer
 
 <hr>
 
-### 🛠️ Services I Offer
-
-<ul>
-  <li>🌐 <b>Full-Stack Web Development</b></li>
-  <li>🌐 <b>Custom WordPress Development</b></li>
-  <li>🌐 <b>Shopify Store Development</b></li>
-  <li>🌐 <b>MERN Stack Development</b></li>
-  <li>🌐 <b>API Development and Integration</b></li>
-  <li>🌐 <b>Database Design and Optimization</b></li>
-  <li>🌐 <b>Platform Integration</b></li>
-  <li>🌐 <b>DevOps and CI/CD</b></li>
-</ul>
+<div style="display: flex; justify-content: space-around;">
+  <div>
+    <h2>🛠️ Services I Offer</h2>
+    <ul>
+      <li>🌐 <b>Full-Stack Web Development</b></li>
+      <li>📝 <b>Custom WordPress Development</b></li>
+      <li>🛍️ <b>Shopify Store Development</b></li>
+      <li>🔹 <b>MERN Stack Development</b></li>
+      <li>🔌 <b>API Development and Integration</b></li>
+      <li>💾 <b>Database Design and Optimization</b></li>
+      <li>☁️ <b>Platform Integration</b></li>
+      <li>🛠️ <b>DevOps and CI/CD</b></li>
+    </ul>
+  </div>
+  <div>
+    <h2>🌟 Greatest Strength</h2>
+    <ul>
+      <li>✔️ <b>Extensive Experience</b></li>
+      <li>✔️ <b>MERN Stack Specialist</b></li>
+      <li>✔️ <b>Innovative Approach</b></li>
+      <li>✔️ <b>Meticulous Coding</b></li>
+      <li>✔️ <b>Strong Problem-Solving</b></li>
+      <li>✔️ <b>Collaborative Team Player</b></li>
+    </ul>
+  </div>
+</div>
 <hr>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=techexpert0119&count_private=true&show_icons=true)
