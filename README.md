@@ -12,122 +12,134 @@ I'm a result-driven tech expert and enthusiastic senior full stack web developer
 
 ### 🔥 My strong skillsets
 
-<table align="center">
+<table align="center" style="border: none;">
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" alt="icon" width="36" height="36" />
+      <img src="https://skillicons.dev/icons?i=react" alt="icon" width="24" height="24" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=typescript" alt="icon" width="36" height="36" />
+      <img src="https://skillicons.dev/icons?i=typescript" alt="icon" width="24" height="24" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=javascript" alt="icon" width="36" height="36" />
+      <img src="https://skillicons.dev/icons?i=javascript" alt="icon" width="24" height="24" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=cpp" alt="icon" width="36" height="36" />
+      <img src="https://skillicons.dev/icons?i=cpp" alt="icon" width="24" height="24" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="36" height="36" />
+      <img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="24" height="24" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=aws" alt="icon" width="36" height="36" />
+      <img src="https://skillicons.dev/icons?i=aws" alt="icon" width="24" height="24" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=python" alt="icon" width="36" height="36" />
+      <img src="https://skillicons.dev/icons?i=python" alt="icon" width="24" height="24" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=django" alt="icon" width="36" height="36" />
+      <img src="https://skillicons.dev/icons?i=django" alt="icon" width="24" height="24" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=github" alt="icon" width="36" height="36" />
+      <img src="https://skillicons.dev/icons?i=github" alt="icon" width="24" height="24" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="36" height="36" alt="NextJS" />
+      <img src="https://skillicons.dev/icons?i=nextjs" width="24" height="24" alt="NextJS" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=angular" width="36" height="36" alt="HTML5" />
+      <img src="https://skillicons.dev/icons?i=angular" width="24" height="24" alt="HTML5" />
     </td>
     <td align="center" >
-      <img src="https://skillicons.dev/icons?i=laravel" width="36" height="36" alt="Laravel" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" >
-      <img src="https://skillicons.dev/icons?i=express" width="36" height="36" alt="Express" />
+      <img src="https://skillicons.dev/icons?i=laravel" width="24" height="24" alt="Laravel" />
     </td>
     <td align="center" >
-      <img src="https://skillicons.dev/icons?i=html" width="36" height="36" alt="HTML5" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" width="36" height="36" alt="css" />
+      <img src="https://skillicons.dev/icons?i=express" width="24" height="24" alt="Express" />
     </td>
     <td align="center" >
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="36" height="36" alt="bootstrap" />
+      <img src="https://skillicons.dev/icons?i=html" width="24" height="24" alt="HTML5" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="36" height="36" alt="tailwind" />
+      <img src="https://skillicons.dev/icons?i=css" width="24" height="24" alt="css" />
+    </td>
+    <td align="center" >
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="24" height="24" alt="bootstrap" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=jquery" width="36" height="36" alt="jQuery" />
+      <img src="https://skillicons.dev/icons?i=tailwind" width="24" height="24" alt="tailwind" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="36" height="36" alt="MongoDB" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="36" height="36" alt="Nodejs" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=php" width="36" height="36" alt="PHP" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode" width="36" height="36" alt="VsCode" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=wordpress" width="36" height="36" alt="WordPress" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=vue" width="36" height="36" alt="Vue" />
+      <img src="https://skillicons.dev/icons?i=jquery" width="24" height="24" alt="jQuery" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=sass" width="36" height="36" alt="Sass" />
+      <img src="https://skillicons.dev/icons?i=mongodb" width="24" height="24" alt="MongoDB" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=graphql" width="36" height="36" alt="MySQL" />
+      <img src="https://skillicons.dev/icons?i=nodejs" width="24" height="24" alt="Nodejs" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=postgres" width="36" height="36" alt="PostgreSQL" />
+      <img src="https://skillicons.dev/icons?i=php" width="24" height="24" alt="PHP" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nuxtjs" width="36" height="36" alt="" />
+      <img src="https://skillicons.dev/icons?i=vscode" width="24" height="24" alt="VsCode" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=d3" width="36" height="36" alt="" />
+      <img src="https://skillicons.dev/icons?i=wordpress" width="24" height="24" alt="WordPress" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=redux" width="36" height="36" alt="" />
+      <img src="https://skillicons.dev/icons?i=vue" width="24" height="24" alt="Vue" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=go" width="36" height="36" alt="" />
+      <img src="https://skillicons.dev/icons?i=sass" width="24" height="24" alt="Sass" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nestjs" width="36" height="36" alt="" />
+      <img src="https://skillicons.dev/icons?i=graphql" width="24" height="24" alt="MySQL" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=mui" width="36" height="36" alt="" />
+      <img src="https://skillicons.dev/icons?i=postgres" width="24" height="24" alt="PostgreSQL" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=azure" width="36" height="36" alt="" />
+      <img src="https://skillicons.dev/icons?i=nuxtjs" width="24" height="24" alt="" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=docker" width="36" height="36" alt="" />
+      <img src="https://skillicons.dev/icons?i=d3" width="24" height="24" alt="" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=kubernetes" width="36" height="36" alt="" />
+      <img src="https://skillicons.dev/icons?i=redux" width="24" height="24" alt="" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=go" width="24" height="24" alt="" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nestjs" width="24" height="24" alt="" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mui" width="24" height="24" alt="" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=azure" width="24" height="24" alt="" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker" width="24" height="24" alt="" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="24" height="24" alt="" />
     </td>
  </tr>
 </table>
+
+<hr>
+
+# 🛠️ Services I Offer 🛠️
+
+🌐 Full-Stack Web Development: Designing, developing, testing, and implementing web applications using the latest technologies and frameworks.
+📝 Custom WordPress Development: Building custom WordPress themes, plugins, and tailored solutions to meet your unique requirements.
+🛍️ Shopify Store Development: Setting up and customizing Shopify stores, creating visually appealing and user-friendly e-commerce experiences.
+🔹 MERN Stack Development: Harnessing the power of the MERN stack to build robust and scalable web applications.
+🔌 API Development and Integration: Creating secure and efficient RESTful APIs and GraphQL endpoints to enable seamless integration with third-party services.
+💾 Database Design and Optimization: Design and optimize database structures using MySQL, PostgreSQL, and MongoDB.
+☁️ Cloud Platform Integration: Deploy applications and configure serverless architectures using AWS, Microsoft Azure, and Google Cloud Platform.
+🛠️ DevOps and CI/CD: Embrace DevOps practices and utilize tools like Docker, Kubernetes, Git, and CI/CD pipelines. Streamline development and deployment processes for efficient collaboration and rapid delivery.
+
 <hr>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=techexpert0119&count_private=true&show_icons=true)
