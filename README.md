@@ -128,8 +128,8 @@ I'm a result-driven tech expert and enthusiastic senior full stack web developer
 
 <hr>
 
-<table border="0">
-  <tr>
+<table style="border: 0px;">
+  <tr style="border: 0px;">
     <td width="400" verticalAlign="top">
       <h3>🛠️ Services I Offer</h3>
       <ul>
