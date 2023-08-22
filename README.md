@@ -129,16 +129,16 @@ I'm a result-driven tech expert and enthusiastic senior full stack web developer
 
 <hr>
 
-# 🛠️ Services I Offer 🛠️
+### 🛠️ Services I Offer 🛠️
 
-🌐 Full-Stack Web Development: Designing, developing, testing, and implementing web applications using the latest technologies and frameworks.
-📝 Custom WordPress Development: Building custom WordPress themes, plugins, and tailored solutions to meet your unique requirements.
-🛍️ Shopify Store Development: Setting up and customizing Shopify stores, creating visually appealing and user-friendly e-commerce experiences.
-🔹 MERN Stack Development: Harnessing the power of the MERN stack to build robust and scalable web applications.
-🔌 API Development and Integration: Creating secure and efficient RESTful APIs and GraphQL endpoints to enable seamless integration with third-party services.
-💾 Database Design and Optimization: Design and optimize database structures using MySQL, PostgreSQL, and MongoDB.
-☁️ Cloud Platform Integration: Deploy applications and configure serverless architectures using AWS, Microsoft Azure, and Google Cloud Platform.
-🛠️ DevOps and CI/CD: Embrace DevOps practices and utilize tools like Docker, Kubernetes, Git, and CI/CD pipelines. Streamline development and deployment processes for efficient collaboration and rapid delivery.
+<p>🌐 <b>Full-Stack Web Development:</b> Designing, developing, testing, and implementing web applications using the latest technologies and frameworks.<br/>
+📝 <b>Custom WordPress Development:</b> Building custom WordPress themes, plugins, and tailored solutions to meet your unique requirements.<br/>
+🛍️ <b>Shopify Store Development:</b> Setting up and customizing Shopify stores, creating visually appealing and user-friendly e-commerce experiences.<br/>
+🔹 <b>MERN Stack Development:</b> Harnessing the power of the MERN stack to build robust and scalable web applications.<br/>
+🔌 <b>API Development and Integration</b>: Creating secure and efficient RESTful APIs and GraphQL endpoints to enable seamless integration with third-party services.<br/>
+💾 <b>Database Design and Optimization:</b> Design and optimize database structures using MySQL, PostgreSQL, and MongoDB.<br/>
+☁️ <b>Cloud Platform Integration:</b> Deploy applications and configure serverless architectures using AWS, Microsoft Azure, and Google Cloud Platform.<br/>
+🛠️ <b>DevOps and CI/CD:</b> Embrace DevOps practices and utilize tools like Docker, Kubernetes, Git, and CI/CD pipelines. Streamline development and deployment processes for efficient collaboration and rapid delivery.</p>
 
 <hr>
 
