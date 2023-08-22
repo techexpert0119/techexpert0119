@@ -129,32 +129,33 @@ I'm a result-driven tech expert and enthusiastic senior full stack web developer
 
 <hr>
 
-<div style="display: flex; justify-content: space-around;">
-  <div>
-    <h2>🛠️ Services I Offer</h2>
-    <ul>
-      <li>🌐 <b>Full-Stack Web Development</b></li>
-      <li>📝 <b>Custom WordPress Development</b></li>
-      <li>🛍️ <b>Shopify Store Development</b></li>
-      <li>🔹 <b>MERN Stack Development</b></li>
-      <li>🔌 <b>API Development and Integration</b></li>
-      <li>💾 <b>Database Design and Optimization</b></li>
-      <li>☁️ <b>Platform Integration</b></li>
-      <li>🛠️ <b>DevOps and CI/CD</b></li>
-    </ul>
-  </div>
-  <div>
-    <h2>🌟 Greatest Strength</h2>
-    <ul>
-      <li>✔️ <b>Extensive Experience</b></li>
-      <li>✔️ <b>MERN Stack Specialist</b></li>
-      <li>✔️ <b>Innovative Approach</b></li>
-      <li>✔️ <b>Meticulous Coding</b></li>
-      <li>✔️ <b>Strong Problem-Solving</b></li>
-      <li>✔️ <b>Collaborative Team Player</b></li>
-    </ul>
-  </div>
-</div>
+<table style="border: none;">
+  <tr>
+    <td>
+      <h3>🛠️ Services I Offer</h3>
+      <ul>
+        <li>🌐 <b>Full-Stack Web Development</b></li>
+        <li>📝 <b>Custom WordPress Development</b></li>
+        <li>🛍️ <b>Shopify Store Development</b></li>
+        <li>🔹 <b>MERN Stack Development</b></li>
+        <li>🔌 <b>API Development and Integration</b></li>
+        <li>💾 <b>Database Design and Optimization</b></li>
+        <li>☁️ <b>Platform Integration</b></li>
+        <li>🛠️ <b>DevOps and CI/CD</b></li>
+      </ul>
+    </td>
+    <td>
+      <h3>🌟 Greatest Strength</h3>
+      <p>✔️ <b>Extensive Experience</b></p>
+      <p>✔️ <b>MERN Stack Specialist</b></p>
+      <p>✔️ <b>Innovative Approach</b></p>
+      <p>✔️ <b>Meticulous Coding</b></p>
+      <p>✔️ <b>Strong Problem-Solving</b></p>
+      <p>✔️ <b>Collaborative Team Player</b></p>
+      </ul>
+    </td>
+  </tr>
+</table>
 <hr>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=techexpert0119&count_private=true&show_icons=true)
