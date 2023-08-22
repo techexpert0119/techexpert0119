@@ -128,9 +128,9 @@ I'm a result-driven tech expert and enthusiastic senior full stack web developer
 
 <hr>
 
-<table border="none">
+<table border="0">
   <tr>
-    <td width="250" verticalAlign="top">
+    <td width="400" verticalAlign="top">
       <h3>🛠️ Services I Offer</h3>
       <ul>
         <li>🌐 <b>Full-Stack Web Development</b></li>
@@ -143,7 +143,7 @@ I'm a result-driven tech expert and enthusiastic senior full stack web developer
         <li>🛠️ <b>DevOps and CI/CD</b></li>
       </ul>
     </td>
-    <td width="250" verticalAlign="top">
+    <td width="400" verticalAlign="top">
       <h3>🌟 Greatest Strength</h3>
       <b>✔️ Extensive Experience<br/>✔️ MERN Stack Specialist<br/>✔️ Innovative Approach<br/>✔️ Meticulous Coding</br>✔️ Strong Problem-Solving<br/>✔️ Collaborative Team Player<br/></b>
     </td>
