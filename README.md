@@ -6,8 +6,8 @@
   </a>
 </h2>
 
-<p align="center">
-I'm a result-driven tech expert and enthusiastic senior full stack web developer with 9+ years of hands-on experience designing, developing, and implementing web applications and solutions using various technical stacks and programming languages.
+<p align="center"><b>
+I'm a result-driven tech expert and enthusiastic senior full stack web developer with 9+ years of hands-on experience designing, developing, and implementing web applications and solutions using various technical stacks and programming languages.</b>
 </p>
 
 <h3>🔥 My strong skillsets</h3>
