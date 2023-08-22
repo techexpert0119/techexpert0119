@@ -129,17 +129,18 @@ I'm a result-driven tech expert and enthusiastic senior full stack web developer
 
 <hr>
 
-### 🛠️ Services I Offer 🛠️
+### 🛠️ Services I Offer
 
-<p>🌐 <b>Full-Stack Web Development:</b> Designing, developing, testing, and implementing web applications using the latest technologies and frameworks.<br/>
-📝 <b>Custom WordPress Development:</b> Building custom WordPress themes, plugins, and tailored solutions to meet your unique requirements.<br/>
-🛍️ <b>Shopify Store Development:</b> Setting up and customizing Shopify stores, creating visually appealing and user-friendly e-commerce experiences.<br/>
-🔹 <b>MERN Stack Development:</b> Harnessing the power of the MERN stack to build robust and scalable web applications.<br/>
-🔌 <b>API Development and Integration</b>: Creating secure and efficient RESTful APIs and GraphQL endpoints to enable seamless integration with third-party services.<br/>
-💾 <b>Database Design and Optimization:</b> Design and optimize database structures using MySQL, PostgreSQL, and MongoDB.<br/>
-☁️ <b>Cloud Platform Integration:</b> Deploy applications and configure serverless architectures using AWS, Microsoft Azure, and Google Cloud Platform.<br/>
-🛠️ <b>DevOps and CI/CD:</b> Embrace DevOps practices and utilize tools like Docker, Kubernetes, Git, and CI/CD pipelines. Streamline development and deployment processes for efficient collaboration and rapid delivery.</p>
-
+<ul>
+  <li>🌐 <b>Full-Stack Web Development</b></li>
+  <li>🌐 <b>Custom WordPress Development</b></li>
+  <li>🌐 <b>Shopify Store Development</b></li>
+  <li>🌐 <b>MERN Stack Development</b></li>
+  <li>🌐 <b>API Development and Integration</b></li>
+  <li>🌐 <b>Database Design and Optimization</b></li>
+  <li>🌐 <b>Platform Integration</b></li>
+  <li>🌐 <b>DevOps and CI/CD</b></li>
+</ul>
 <hr>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=techexpert0119&count_private=true&show_icons=true)
