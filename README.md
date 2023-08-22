@@ -10,9 +10,8 @@
 I'm a result-driven tech expert and enthusiastic senior full stack web developer with 9+ years of hands-on experience designing, developing, and implementing web applications and solutions using various technical stacks and programming languages.
 </p>
 
-### 🔥 My strong skillsets
-
-<table align="center" style="border: none;">
+<h3>🔥 My strong skillsets</h3>
+<table align="center" style="border: none; ">
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=react" alt="icon" width="24" height="24" />
@@ -130,8 +129,8 @@ I'm a result-driven tech expert and enthusiastic senior full stack web developer
 <hr>
 
 <table style="border: none; width: 100%;">
-  <tr>
-    <td>
+  <tr style="width: 100%">
+    <td style="width: 50%; vertical-align: top;">
       <h3>🛠️ Services I Offer</h3>
       <ul>
         <li>🌐 <b>Full-Stack Web Development</b></li>
@@ -144,10 +143,9 @@ I'm a result-driven tech expert and enthusiastic senior full stack web developer
         <li>🛠️ <b>DevOps and CI/CD</b></li>
       </ul>
     </td>
-    <td>
+    <td style="width: 50%; vertical-align: top;">
       <h3>🌟 Greatest Strength</h3>
-      <br>✔️ Extensive Experience<br/>✔️ MERN Stack Specialist<br/>✔️ Innovative Approach<br/>✔️ Meticulous Coding</br>✔️ Strong Problem-Solving<br/>✔️ Collaborative Team Player<br/></b>
-      </ul>
+      <b>✔️ Extensive Experience<br/>✔️ MERN Stack Specialist<br/>✔️ Innovative Approach<br/>✔️ Meticulous Coding</br>✔️ Strong Problem-Solving<br/>✔️ Collaborative Team Player<br/></b>
     </td>
   </tr>
 </table>
