@@ -150,7 +150,3 @@ I'm a result-driven senior software engineer and enthusiastic full stack develop
   </tr>
 </table>
 <hr>
-
-<div align="center">
-  <img height="120" src="https://user-images.githubusercontent.com/123120185/257965076-a45fbf30-104f-4dea-b41f-4babd28f92d2.svg"  />
-</div>
