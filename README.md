@@ -159,8 +159,8 @@ I'm a Senior Software Engineer with over 14 years of experience specializing in 
         <li>✔️ Full-Stack & AI Specialist</li>
         <li>✔️ Advanced System Architecture</li>
         <li>✔️ Scalable, High-Performance Applications</li>
-        <li>✔️ AI/ML Integrations Stuff</li>
         <li>✔️ Mentoring and Team Leadership</li>
+        <li>✔️ Problem Solving and Rapid Prototyping</li>
       </ul>
     </td>
   </tr>
