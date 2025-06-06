@@ -7,7 +7,7 @@
 </h2>
 
 <p align="center">
-I'm a Senior Software Engineer with over 14 years of experience specializing in full-stack development, system architecture, and AI-driven solutions. Passionate about leveraging cutting-edge technologies to drive business growth and enhance user experiences.
+I'm a Senior Software Engineer with over 12 years of experience specializing in full-stack development, system architecture, and AI-driven solutions. Passionate about leveraging cutting-edge technologies to drive business growth and enhance user experiences.
 </p>
 
 <h3>🔥 My Strong Skillsets</h3>
